@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "firebase-admin": "^8.10.0",
+    "firebase-admin": "^11.4.1",
     "firebase-functions": "^3.5.0",
     "isomorphic-unfetch": "^3.0.0",
     "next": "^9.3.1",
